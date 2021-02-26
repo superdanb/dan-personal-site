@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Dan Barak: Founder and product person.'
-    subtitle: "Co-Founder and COO at\_Stackbit, empowering developers and designers to build the modern web. Ex-Lyft, Ex-Facebook."
+    subtitle: "Co-Founder and COO at\_Stackbit, the best editing experience for modern sites, for developers and editors. Ex-Lyft, Ex-Facebook."
     actions:
       - label: Contact Me
         url: /contact
